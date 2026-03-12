@@ -1,0 +1,14 @@
+p{
+    color: aqua;
+    border:30px solid black;
+}
+div{
+    color:blue;
+    background-color:yellow;
+    border:10px solid red;
+}
+/*class selector*/
+.c1{
+    color:brown;
+    font-family:'Courier New'
+}
